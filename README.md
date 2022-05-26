@@ -1,4 +1,4 @@
-### Olá Eu Sou O Arthur ☺️
+### Olá, Eu Sou O Arthur
 
 ![José Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur129&show_icons=true&theme=radical)
 
