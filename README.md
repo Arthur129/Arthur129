@@ -2,6 +2,10 @@
 
 ![José Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur129&show_icons=true&theme=radical)
 
+### Tecnologias Que Eu Mais Utilizo
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur129&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias Que Uso No Meu Dia A Dia
 
 <div style="display: inline_block"><br/>
